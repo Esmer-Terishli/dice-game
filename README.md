@@ -9,5 +9,5 @@
 <p align="left">4. <b>Winning:</b> If you successfully roll the target number or combination, you win the game!</p>
 <h1>Installation</h1>
 <p align="left">To play the Dice Game, simply access the game through your web browser by visiting the provided link below:</p>
-<p>Play the Dice Game [[https://esmer-terishli.github.io/dice-game/](https://dice-game-dice.netlify.app/)].</p>
+<p>Play the Dice Game [https://dice-game-dice.netlify.app/].</p>
 - 🎲 Have fun playing the Dice Game!
